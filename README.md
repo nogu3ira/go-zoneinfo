@@ -1,4 +1,6 @@
 # go-zoneinfo
+[![Build Status](https://travis-ci.org/nogu3ira/go-zoneinfo.svg?branch=master)](https://travis-ci.org/nogu3ira/go-zoneinfo) [![Go Report Card](https://goreportcard.com/badge/github.com/nogu3ira/go-zoneinfo)](https://goreportcard.com/report/github.com/nogu3ira/go-zoneinfo)
+
 Zoneinfo embedded data in Go, helpful for applications running on Windows or if you want to load within the application, regardless of the operating system.
 
 
