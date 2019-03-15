@@ -3,6 +3,15 @@
 
 Zoneinfo embedded data in Go, helpful for applications running on Windows or if you want to load within the application, regardless of the operating system.
 
+#### Known errors
+
+    [ORM] Detect DB timezone: America/Araguaina open C:\Go/lib/time/zoneinfo.zip: not found path
+    
+    "open /go/lib/time/zoneinfo.zip: no such file or directory"
+    
+    open c:\go\lib\time\zoneinfo.zip: The system cannot find the file specified.
+    
+    zoneinfo.zip: O sistema não pode encontrar o arquivo especificado.
 
 ## Quick Example
 
